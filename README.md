@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-    <title>Khitish Panigrahi | Portfolio</title>
+    <title>Khitish Panigrahi | PortFolio</title>
     <link rel="icon" href="img/favicon.png" sizes="40x40" type="image/png">
     <!-- EXTERNAL CSS LINK  -->
     <link rel="stylesheet" href="css/style.css" />
@@ -45,12 +45,13 @@
           </a>
           <a href="#about" class="navItems"> about </a>
           <a href="#experience" class="navItems"> experience </a>
-          <a href="#articles" class="navItems"> articles </a>
+          <a href="#projects" class="navItems"> projects </a>
+          <a href="#publications" class="navItems"> Publications </a>
           <a href="#education" class="navItems"> education </a>
           <a href="#codes" class="navItems">codes</a>
           <a href="#skills" class="navItems"> skills </a>
-          <a href="#projects" class="navItems"> projects </a>
-          <a href="#blogs" class="navItems"> blogs </a>
+          <a href="#contact" class="navItems"> contact </a>
+
          <!--  <a href="#contact" class="navItems"> contact </a>
           <a
             href="https://drive.google.com/file/d/1YvdI33VvD_hUyce0oCST8GoOBzs8slr5/view?usp=sharing"
@@ -59,7 +60,7 @@
           >
             resume
           </a> -->
-          <a href="https://drive.google.com/open?id=1YvdI33VvD_hUyce0oCST8GoOBzs8slr5" class="navItems">resume</a>
+          <a href="" class="navItems">resume</a>
         </div>
       </nav>
       <!-- NAVIGATION ENDS --------------------->
@@ -95,7 +96,7 @@
           <a href="#education" class="navItems education" id="navItems"> education </a>
           <a href="#contact" class="navItems contact" id="navItems"> contact </a>
           <a
-            href="https://1drv.ms/b/s!AmsFhTxIwCaRamjuLNw4C_imleE?e=hEENhi"
+            href=""
             target="_blank"
             class="navItems resumeHover" id="navItems"
           >
@@ -133,12 +134,12 @@
                 
                 <td>
                  <div class="boxBody">
-                <h2><li><b> I am a B.Tech 3rd year student at IIIT Bhubaneswar Computer Science And Engineering  Department.
+                <h2><li><b> I am a B.Tech Final year student at IIIT Bhubaneswar Computer Science And Engineering  Department.
                   </b>
                   </li>
                 </h2>
 
-                  <h2><li><b>Internship Organizations :- GeeksForGeeks , CodeSpeedy.com , OpenGenus .
+                  <h2><li><b>Internship Organizations :- Cppsecrets.com, GeeksForGeeks ,OpenGenus, CodingBlocks.com , Internshala
                   </b>
                   
                   </li>
@@ -147,10 +148,45 @@
                  </div>
 
                 </td>
-                <td>   </td>
-                    <td></td>
+             
                   </tr>
                   </table>
+                  <h4><b>🎯Click on below icons to go to respective code sites:-</b></h4>
+                  <div>
+                  	 		<div class="commonProperty codeconvert">
+					          <div class="box box1">
+					            <a href="https://babayaga9823.github.io/leetcode-solved-codes/" target="_blank">
+					            	<img src="https://miro.medium.com/max/1200/1*9EEAMYxLObepKMaOCgYgvA.jpeg" style="width:70px;height:50px;">
+					              <!-- <i class="fab fa-twitter"></i> -->
+					            </a>
+					          </div>
+					          <div class="box box2">
+					            <a href="https://babayaga9823.github.io/SQL/" target="_blank">
+					            <img src="https://pngimg.com/uploads/mysql/mysql_PNG22.png" style="width:50px;height:50px;">
+					          </a>
+					          </div>
+					          <div class="box box3">
+					            <a href="https://babayaga9823.github.io/codes/" target="_blank">
+					            <img src="https://cdn.freebiesupply.com/logos/large/2x/c-logo-png-transparent.png" style="width:50px;height:50px;">
+					          </a>
+					          </div>
+					          <div class="box box4">
+					            <a href="https://babayaga9823.github.io/Geeks-for-Geeks-Codes/s" target="_blank">
+					            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSgxK9mIiai-LtjY5fwoVYo34RHdWJSbRtnwV3xDn0w07EdHY_o" style="width:50px;height:50px;">
+					          </a>
+					          </div>
+					          <div class="box box5">
+					            <a href="https://babayaga9823.github.io/Hacker-Rank-Codes/" target="_blank">
+					           <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" style="width:50px;height:50px;">
+					          </a>
+					          </div>
+					          <!-- <div class="box box6">
+					            <a href="https://babayaga9823.github.io/Java-codes/" target="_blank">
+					             <img src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png" style="width:50px;height:50px;">
+					          </a>
+					          </div> -->
+					        </div>
+                  </div>
                   <br>
                   <br>
                    <p><b>Scroll Down to Know more about me</b></p>
@@ -165,7 +201,62 @@
       <section class="section scrollspy" id="experience">
         <h1>EXPERIENCE</h1>
         <div class="commonProperty experienceSectoin">
-          <!-- BOX-1 -->
+<!-- CPPSECRETS.com start -->
+          <div class="box box1">
+            <div class="boxhead">
+              <div class="boxLogo">
+                <img
+                  src="https://cppsecrets.com/assets/base/img/layout/logos/logo-1.png"
+                  alt=""
+                />
+              </div>
+              <h3>CPPSECRETS.COM</h3>
+              <div class="position"><h4>Software Developer Intern</h4></div>
+            </div>
+            <!-- <hr style="width: 90%; border: 0.7px solid black;" /> -->
+            <hr>
+            <div class="boxBody">
+              <p>
+                <ul>
+                  <li>Worked on a API that directly sends and receives sensor data from remote to server.
+                  </li>
+                  <li>API can be modified to send any number of sensor data directly to server(no intermediate database required)</li>
+
+                  <li>GET and POSTS Requests from Remote Sensors connected to NODE MCU.</li>
+                </ul>
+              </p>
+            </div>
+            <div class="boxFoot">
+              <p>From May 2020</p>
+            </div>
+          </div>
+          <!-- CPPSECRETS.com end -->
+  <!-- BOX-6 -->
+  <div class="box box4">
+    <div class="boxhead">
+      <div class="boxLogo">
+        <img
+          src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png"
+          alt=""
+        />
+      </div>
+      <h3>HackerRank</h3>
+      <div class="position"><h4>Certified HackerRank Programmer</h4></div>
+    </div>
+    <!-- <hr style="width: 90%; border: 0.7px solid black;" /> -->
+    <hr>
+    <div class="boxBody">
+      <p>
+        <ul>
+          <li>Certified HackeRank Problem Solver C++</li>
+        </ul>
+      </p>
+    </div>
+    <div class="boxFoot">
+      <p>From September 2020</p>
+    </div>
+  </div>
+          <!-- BOX-1 GeeksForGeeks-->
           <div class="box box1">
             <div class="boxhead">
               <div class="boxLogo">
@@ -183,37 +274,13 @@
               <p>
                 <ul>
                   <li>Contributing articles to Core Computer Science Subjects.</li>
+                  <li>Contributing articles to Codes.</li>
+                  <li>Making improvement of existing articles.</li>
                 </ul>
               </p>
             </div>
             <div class="boxFoot">
               <p>From January 2020</p>
-            </div>
-          </div>
-
-             <!-- Codespeedy box added later by me -->
-          <div class="box box1">
-            <div class="boxhead">
-              <div class="boxLogo">
-                <img
-                  src="https://media-exp1.licdn.com/dms/image/C560BAQEyH0Zd5o90ew/company-logo_200_200/0?e=2159024400&v=beta&t=-0hWAIc-0XOmtKfIRP4vp2Hiwgl9OdHL0U93M0wYK2M"
-                  alt=""
-                />
-              </div>
-              <h3>CodeSpeedy.com</h3>
-              <div class="position"><h4>C++ Programmer</h4></div>
-            </div>
-            <!-- <hr style="width: 90%; border: 0.7px solid black;" /> -->
-            <hr>
-            <div class="boxBody">
-              <p>
-                <ul>
-                  <li>Contributing C++ codes , Concepts , Projects.</li>
-                </ul>
-              </p>
-            </div>
-            <div class="boxFoot">
-              <p>From Feb 2020</p>
             </div>
           </div>
 
@@ -234,7 +301,7 @@
             <div class="boxBody">
               <p>
                 <ul>
-                   <li>Contributing to Codes and Techinical Articles.</li>
+                   <li>Contributing to C++ Projects/codes.</li>
                 </ul>
               </p>
             </div>
@@ -243,8 +310,20 @@
             </div>
           </div>
 
+             <!-- Codespeedy box added later by me -->
 
-          <!-- BOX-3 -->
+          
+                 <!-- BOX-3 Coding blocks -->
+          
+            <!-- Internshala end -->
+
+          
+
+                   <!-- BOX-4 COde.org -->
+        
+
+
+          <!-- BOX-5 -->
           <div class="box box3">
             <div class="boxhead">
               <div class="boxLogo">
@@ -263,7 +342,8 @@
                 <ul>
                   <li>Summer training in Embedded Systems and Robotics.  </li>
                   <li>Built-many real life projects using atmega-16 and Arduino UNO.  </li>
-                  <li>A+ Grade in in Final Project Submission.  </li>
+                   <li>I was the team leader of summer training final project . We built we a non-colliding and never falling robot also that can be modified to be used as line follower robot.</li>
+                  <li>A+ Grade in Final Project Submission.  </li>
                   </ul>
               </p>
             </div>
@@ -273,7 +353,7 @@
           </div>
 
 
-          <!-- BOX-4 -->
+          <!-- BOX-6 -->
           <div class="box box4">
             <div class="boxhead">
               <div class="boxLogo">
@@ -300,9 +380,34 @@
           </div>
        
      
+ <!-- BOX-9 -->
+ <div class="box box1">
+  <div class="boxhead">
+    <div class="boxLogo">
+      <img
+        src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoQKdS8NxMpg2u5LRIBGpm7CD16fKGH-3hR4V1F7uPmE7Us6yt"
+        alt=""
+      />
+    </div>
+    <h3>IEEE WORKSHOP ON IOT</h3>
+    <div class="position"><h4>Attended IOT workshop by IEEE</h4></div>
+  </div>
+  <!-- <hr style="width: 90%; border: 0.7px solid black;" /> -->
+  <hr>
+  <div class="boxBody">
+    <p>
+      <ul>
+        <li>IEEE Workshop on IoT: App Development Google Cloud .</li>
+      </ul>
+    </p>
+  </div>
+  <div class="boxFoot">
+    <p>January 2020</p>
+  </div>
+</div>
 
 
-        <!-- BOX-5 -->
+        <!-- BOX-7 -->
           <div class="box box1">
             <div class="boxhead">
               <div class="boxLogo">
@@ -319,7 +424,7 @@
             <div class="boxBody">
               <p>
                 <ul>
-                  <li>The coding rank is as per the GeeksFOrGeeks Portal of Coders.</li>
+                  <li>The coding rank is as per the GeeksForGeeks Portal of Coders.</li>
                 </ul>
               </p>
             </div>
@@ -330,10 +435,10 @@
         <!-- </div> -->
   
       
+ 
 
 
-
-        <!-- BOX-6 -->
+        <!-- BOX-8 -->
           <div class="box box1">
             <div class="boxhead">
               <div class="boxLogo">
@@ -359,49 +464,205 @@
             </div>
           </div>
         
+       <!-- BOX-4 TechGig -->
+       <div class="box box3">
+        <div class="boxhead">
+          <div class="boxLogo">
+            <img
+              src="https://media-exp1.licdn.com/dms/image/C510BAQFdqGQUZGPkAQ/company-logo_200_200/0?e=1596067200&v=beta&t=sZyt8IrgUapnPbkuj2BUE_hRcn460O2J-HO4jOxU6Mw"
+              alt=""
+            />
+          </div>
+          <h3>TechGig</h3>
+          <div class="position"><h4>Achieved C++ Advanced Programmer Level</h4></div>
+        </div>
+        <!-- <hr style="width: 90%; border: 0.7px solid black;" /> -->
+        <hr>
+        <div class="boxBody">
+          <p>
+            <ul>
+              <li>C++ Advanced Programmer Level.</li>
+              </ul>
+          </p>
+        </div>
+        <div class="boxFoot">
+          <p>March 2020 </p>
+        </div>
+      </div>
 
 
-
-        <!-- BOX-7 -->
-          <div class="box box1">
+       
+          <div class="box box3">
             <div class="boxhead">
               <div class="boxLogo">
                 <img
-                  src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoQKdS8NxMpg2u5LRIBGpm7CD16fKGH-3hR4V1F7uPmE7Us6yt"
+                  src="https://media-exp1.licdn.com/dms/image/C560BAQF5th2_4vAFkA/company-logo_200_200/0?e=1596067200&v=beta&t=vP-PDJ2s93pDgz2dfYIgJwvYFMJNhso3WdVOsE1m0d8"
                   alt=""
                 />
               </div>
-              <h3>IEEE WORKSHOP ON IOT</h3>
-              <div class="position"><h4>Attended IOT workshop by IEEE</h4></div>
+              <h3>Coding Blocks</h3>
+              <div class="position"><h4>Campus Ambassador</h4></div>
             </div>
             <!-- <hr style="width: 90%; border: 0.7px solid black;" /> -->
             <hr>
             <div class="boxBody">
               <p>
                 <ul>
-                  <li>IEEE Workshop on IoT: App Development Google Cloud .</li>
+                  <li>Sharing details of new courses, events, bootcamps etc. on social media and on-campus.</li>
+                  <li>Conducting Coding Blocks workshops and online hackathons for my campus.</li>
+                  <li> Create programming contests on HackerBlocks - the online platform of Coding Blocks.</li>
+                  <li> Promotion of Coding Blocks in my campus.</li>
+                  </ul>
+              </p>
+            </div>
+            <div class="boxFoot">
+              <p>March 2020</p>
+            </div>
+          </div>
+
+             <!-- BOX-3.5 Internshala  start-->
+             <div class="box box3">
+              <div class="boxhead">
+                <div class="boxLogo">
+                  <img
+                    src="https://media-exp1.licdn.com/dms/image/C560BAQE0czRb5cGgCA/company-logo_100_100/0?e=1599091200&v=beta&t=63KtXQh7194FBTTuE-LE154svOe0DqtN1wCxYkLWN60"
+                    alt=""
+                  />
+                </div>
+                <h3>Internshala</h3>
+                <div class="position"><h4>Campus Ambassador</h4></div>
+              </div>
+              <!-- <hr style="width: 90%; border: 0.7px solid black;" /> -->
+              <hr>
+              <div class="boxBody">
+                <p>
+                  <ul>
+                    <li>Promote InternShala in college Campus</li>
+                    <li>Sharing details of new courses, events, bootcamps etc. on social media and on-campus.</li>
+                    </ul>
+                </p>
+              </div>
+              <div class="boxFoot">
+                <p>May 2020</p>
+              </div>
+            </div>
+          <!-- BOX-Quora-->
+          <div class="box box4">
+            <div class="boxhead">
+              <div class="boxLogo">
+                <img
+                  src="https://media-exp1.licdn.com/dms/image/C4D0BAQHP6bSKHBd0GQ/company-logo_200_200/0?e=1596067200&v=beta&t=oPgn5yP8pXuVqCUl5hBz1TXenk7y7FQK1kd7vPT2e_k"
+                  alt=""
+                />
+              </div>
+              <h3>Quora</h3>
+              <div class="position"><h4>Popular Blogger</h4></div>
+            </div>
+            <!-- <hr style="width: 90%; border: 0.7px solid black;" /> -->
+            <hr>
+            <div class="boxBody">
+              <p>
+                <ul>
+                  <li>Popular blogger on Quora , contributing to Technological blogs , blogs on Life realities and struggles , travel blogs and book reviews. And contributor of around 20 Quora Spaces , contributing articles to various real life situations and solutions.</li>
                 </ul>
               </p>
             </div>
             <div class="boxFoot">
-              <p>January 2020</p>
+              <p>From May 2018</p>
             </div>
           </div>
         </div>
 
+
+
+        
       </section>
 
       <!-- </section> -->
 
 
       <!-- EXPERIENCE SECTION ENDS -->
+      <!-- PROJECTS SECTION STARTS -->
+      <section class="section scrollspy" id="projects">
 
-      <!-- ARTICLE SECTION STARTS -->
-       <section class="section scrollspy" id="articles">
-        <h1>ARTICLES</h1>
+
+        <h1>PROJECTS</h1>
+        <div class="commonProperty projectsSection">
+
+
+          <div class="box box1">
+            <div class="imgGallary">
+              <div class="image">
+                <img src="https://whezzit.com/wp-content/uploads/2020/06/M-M-Computers-2.jpg" alt="">
+              </div>
+            </div>
+            <!-- <a href="https://github.com/lassiecoder/E-CommerceWebsite"> -->
+              <h4>IOT Smart Home<br><br>
+                <a href="https://www.youtube.com/watch?v=UNJv1MPuXi0" id="contactMe">View</a> 
+              </h4>
+            <!-- </a> -->
+          </div>
+
+
+          <div class="box box1">
+            <div class="imgGallary">
+              <div class="image">
+                <img src="https://whezzit.com/wp-content/uploads/2020/06/M-M-Computers-2.jpg" alt="">
+              </div>
+            </div>
+            <!-- <a href="https://github.com/lassiecoder/E-CommerceWebsite"> -->
+              <h4>Placement Experiences Sharing Platform<br><br>
+                <a href="https://ourpersonalnote.herokuapp.com/" id="contactMe">View</a> 
+              </h4>
+            <!-- </a> -->
+          </div>
+
+
+          <div class="box box1">
+            <div class="imgGallary">
+              <div class="image">
+                <img src="https://whezzit.com/wp-content/uploads/2020/06/M-M-Computers-2.jpg" alt="">
+              </div>
+            </div>
+            <!-- <a href="https://github.com/lassiecoder/E-CommerceWebsite"> -->
+              <h4>Online Notes Making Platform<br><br>
+                <a href="https://ourpersonalnote.herokuapp.com/" id="contactMe">View</a> 
+              </h4>
+            <!-- </a> -->
+          </div>
+
+
+
+          <!-- PROJECT SLIDER - 1 -->
+          <div class="box box1">
+            <div class="imgGallary">
+              <div class="image">
+                <img src="https://whezzit.com/wp-content/uploads/2020/06/M-M-Computers-2.jpg" alt="">
+              </div>
+            </div>
+            <!-- <a href="https://github.com/lassiecoder/E-CommerceWebsite"> -->
+              <h4>Attendance Manager Platform<br><br>
+                <a href="https://ourpersonalnote.herokuapp.com/" id="contactMe">View</a> 
+              </h4>
+            <!-- </a> -->
+          </div>
+
+        </div>
+      </section>
+      <!-- PROJECTS SECTION ENDS -->
+
+
+
+      
+      <!-- Codes section ends -->
+
+
+      <!-- publications SECTION STARTS -->
+       <section class="section scrollspy" id="publications">
+        <h1>PUBLICATIONS</h1>
 
         <div class="commonProperty experienceSectoin">
-        <!-- Articles box-1 -->
+        <!-- publications box-1 -->
            <div class="box box1">
             <div class="boxhead">
               <div class="boxLogo">
@@ -420,6 +681,11 @@
                 <ul>
                   
                     <li><a href="https://www.geeksforgeeks.org/formation-of-process-from-program/">Formation Of Process from Program</a></li>
+                    <li><a href="https://www.geeksforgeeks.org/port-address-translation-pat-mapping-to-private-ips/">Port Address Translation (PAT) mapping to Private IPs</a></li>
+                    <li><a href="https://www.geeksforgeeks.org/difference-between-segments-packets-and-frames/">Difference between segments, packets and frames</a></li>
+                    <li><a href="https://www.geeksforgeeks.org/components-of-iot-and-relation-with-cloud-computing/">Components of IOT and relation with Cloud Computing</a></li>
+                    <li><a href="https://www.geeksforgeeks.org/calculation-of-tcp-checksum/">Calculation of TCP Checksum</a></li>
+
                   <li><a href="https://www.geeksforgeeks.org/concept-behind-multiple-booting-guide/">Concept behind Multiple Booting Guide</a></li>
 
                   <li><a href="https://www.geeksforgeeks.org/working-of-iso-osi-model/">Working of ISO-OSI Model</a></li>
@@ -435,36 +701,15 @@
           </div>
 
 
-          <!-- Articles BOX-2  -->
-          <div class="box box2">
-            <div class="boxhead">
-              <div class="boxLogo">
-                <img
-                  src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRF0YTdF3RMmacTdR413QRoBIKI-5FGUqlc8ryqkjKv1H4uOcZg"
-                  alt=""
-                />
-              </div>
-              <h3>OpenGenus</h3>
-              <div class="position"><h4>Articles Published in OpenGenus</h4></div>
-            </div>
-            <!-- <hr style="width: 90%; border: 0.7px solid black;" /> -->
-            <hr>
-            <div class="boxBody">
-              <p>
-                <li><a href="https://iq.opengenus.org/p/220aeb3f-17f1-44bf-8db5-622bcdd17301/">How does Internet Works?</a></li>
-              </p>
-            </div>
-            <div class="boxFoot">
-             <!-- <p>Contribution continuing.....</p> -->
-            </div>
-          </div>
+          <!-- publications BOX-2  -->
+    
 
 
         </div>
         <!-- Outer Div ends -->
 
       </section>
-<!-- article section ends -->
+<!-- publications section ends -->
 
 
 
@@ -504,104 +749,183 @@
             <!-- </a> -->
           </div>
 
+
+          <div class="box box1">
+            <div class="imgGallary">
+              <div class="image">
+                <img src="https://pbs.twimg.com/profile_images/1156189029617922050/FduNg-gi_400x400.jpg" alt="">
+              </div>
+            </div>
+            <!-- <a href="https://github.com/lassiecoder/E-CommerceWebsite"> -->
+              <h4><br><br><li>10th CBSE at O.D.M Public School ,  Bhubaneswar</li></h4>
+              <h4><li>Batch : 2014 passout</li></h4>
+            <!-- </a> -->
+          </div>
+
         </div>
       </section>
       <!-- EDUCATION SECTION ENDS -->
 
 
 
-
-      <!-- Codes SECTION STARTS -->
-       <section class="section scrollspy" id="codes">
-        <h1>CODES</h1>
-
-        <div class="commonProperty experienceSectoin">
-        <!-- codes box-1 -->
-           <div class="box box1">
-            <div class="boxhead">
-              <div class="boxLogo">
-                <img
-                  src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSgxK9mIiai-LtjY5fwoVYo34RHdWJSbRtnwV3xDn0w07EdHY_o"
-                  alt=""
-                />
-              </div>
-              <h3>GeekForGeeks</h3>
-              <div class="position"><h4>All Codes of Solved Questions of GeekForGeeks</h4></div>
-            </div>
-            <!-- <hr style="width: 90%; border: 0.7px solid black;" /> -->
-            <hr>
-            <div class="boxBody">
-              <p>
-                <ul>
-                  
-                    <li><a href="https://github.com/babayaga9823/geeks_for_geeks_codes">Click here to Download the codes</a></li>
-            
-                </ul>
-              </p>
-            </div>
-            <div class="boxFoot">
-              <!-- <p>Contribution continuing</p> -->
-            </div>
-          </div>
-
-
-          <!-- Codes BOX-2  -->
-          <div class="box box2">
-            <div class="boxhead">
-              <div class="boxLogo">
-                <img
-                  src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png"
-                  alt=""
-                />
-              </div>
-              <h3>HackerRank</h3>
-              <div class="position"><h4>All Codes of Solved Questions in HackerRank</h4></div>
-            </div>
-            <!-- <hr style="width: 90%; border: 0.7px solid black;" /> -->
-            <hr>
-            <div class="boxBody">
-              <p>
-                <li><a href="https://github.com/babayaga9823/Hacker_rank_codes">Click here to Download the codes</a></li>
-              </p>
-            </div>
-            <div class="boxFoot">
-             <!-- <p>Contribution continuing.....</p> -->
-            </div>
-          </div>
-
-
-
-          <div class="box box2">
-            <div class="boxhead">
-              <div class="boxLogo">
-                <img
-                  src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png"
-                  alt=""
-                />
-              </div>
-              <h3>Java Codes</h3>
-              <div class="position"><h4>All Codes of Solved Questions of Java</h4></div>
-            </div>
-            <!-- <hr style="width: 90%; border: 0.7px solid black;" /> -->
-            <hr>
-            <div class="boxBody">
-              <p>
-                <li><a href="https://github.com/babayaga9823/Java-codes">Click here to Download the codes</a></li>
-              </p>
-            </div>
-            <div class="boxFoot">
-             <!-- <p>Contribution continuing.....</p> -->
-            </div>
-          </div>
-
-
+<!-- Codes SECTION STARTS -->
+<section class="section scrollspy" id="codes">
+  <h1>CODES</h1>
+<div class="commonProperty experienceSectoin">
+    <!-- Codes Leetcode -->
+    <div class="box box2">
+      <div class="boxhead">
+        <div class="boxLogo">
+          <img
+            src="https://miro.medium.com/max/1200/1*9EEAMYxLObepKMaOCgYgvA.jpeg"
+            alt=""
+          />
         </div>
-        <!-- Outer Div ends -->
+        <h3>LeetCode</h3>
+        <div class="position"><h4>All Codes of Solved Questions in LeetCode</h4></div>
+      </div>
+      <!-- <hr style="width: 90%; border: 0.7px solid black;" /> -->
+      <hr>
+      <div class="boxBody">
+        <p>
+          <li><a href="https://babayaga9823.github.io/leetcode-solved-codes/">Click here to Download the codes</a></li>
+        </p>
+      </div>
+      <div class="boxFoot">
+       <!-- <p>Contribution continuing.....</p> -->
+      </div>
+    </div>
+     <!-- Codes SQL -->
+    <div class="box box2">
+      <div class="boxhead">
+        <div class="boxLogo">
+          <img
+            src="https://pngimg.com/uploads/mysql/mysql_PNG22.png"
+            alt=""
+          />
+        </div>
+        <h3>MySql</h3>
+        <div class="position"><h4>Real Life Cases SQL Codes </h4></div>
+      </div>
+      <!-- <hr style="width: 90%; border: 0.7px solid black;" /> -->
+      <hr>
+      <div class="boxBody">
+        <p>
+          <li><a href="https://babayaga9823.github.io/SQL/">Click here to Download the codes</a></li>
+        </p>
+      </div>
+      <div class="boxFoot">
+       <!-- <p>Contribution continuing.....</p> -->
+      </div>
+    </div>
+     <!-- Codes C++ -->
+    <div class="box box2">
+      <div class="boxhead">
+        <div class="boxLogo">
+          <img
+            src="https://cdn.freebiesupply.com/logos/large/2x/c-logo-png-transparent.png"
+            alt=""
+          />
+        </div>
+        <h3>C++</h3>
+        <div class="position"><h4>C++ Codes</h4></div>
+      </div>
+      <!-- <hr style="width: 90%; border: 0.7px solid black;" /> -->
+      <hr>
+      <div class="boxBody">
+        <p>
+          <li><a href="https://babayaga9823.github.io/codes/">Click here to Download the codes</a></li>
+        </p>
+      </div>
+      <div class="boxFoot">
+       <!-- <p>Contribution continuing.....</p> -->
+      </div>
+    </div>
 
-      </section>
+  
+  <!-- codes box-1 -->
+     <div class="box box1">
+      <div class="boxhead">
+        <div class="boxLogo">
+          <img
+            src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSgxK9mIiai-LtjY5fwoVYo34RHdWJSbRtnwV3xDn0w07EdHY_o"
+            alt=""
+          />
+        </div>
+        <h3>GeekForGeeks</h3>
+        <div class="position"><h4>All Codes of Solved Questions of GeekForGeeks</h4></div>
+      </div>
+      <!-- <hr style="width: 90%; border: 0.7px solid black;" /> -->
+      <hr>
+      <div class="boxBody">
+        <p>
+          <ul>
+            
+              <li><a href="https://babayaga9823.github.io/Geeks-for-Geeks-Codes/s">Click here to Download the codes</a></li>
+      
+          </ul>
+        </p>
+      </div>
+      <div class="boxFoot">
+        <!-- <p>Contribution continuing</p> -->
+      </div>
+    </div>
 
 
-      <!-- COdes section ends -->
+    <!-- Codes BOX-2  -->
+    <div class="box box2">
+      <div class="boxhead">
+        <div class="boxLogo">
+          <img
+            src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png"
+            alt=""
+          />
+        </div>
+        <h3>HackerRank</h3>
+        <div class="position"><h4>All Codes of Solved Questions in HackerRank</h4></div>
+      </div>
+      <!-- <hr style="width: 90%; border: 0.7px solid black;" /> -->
+      <hr>
+      <div class="boxBody">
+        <p>
+          <li><a href="https://babayaga9823.github.io/Hacker-Rank-Codes/">Click here to Download the codes</a></li>
+        </p>
+      </div>
+      <div class="boxFoot">
+       <!-- <p>Contribution continuing.....</p> -->
+      </div>
+    </div>
+
+
+
+    <div class="box box2">
+      <div class="boxhead">
+        <div class="boxLogo">
+          <img
+            src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png"
+            alt=""
+          />
+        </div>
+        <h3>Java Codes</h3>
+        <div class="position"><h4>All Codes of Solved Questions of Java</h4></div>
+      </div>
+      <!-- <hr style="width: 90%; border: 0.7px solid black;" /> -->
+      <hr>
+      <div class="boxBody">
+        <p>
+          <li><a href="https://babayaga9823.github.io/Java-codes/">Click here to Download the codes</a></li>
+        </p>
+      </div>
+      <div class="boxFoot">
+       <!-- <p>Contribution continuing.....</p> -->
+      </div>
+    </div>
+
+
+  </div>
+  <!-- Outer Div ends -->
+
+</section>
 
 
 
@@ -679,137 +1003,8 @@
       </section>
       <!-- SKILLS SECTION ENDS -->
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-      <!-- PROJECTS SECTION STARTS -->
-      <section class="section scrollspy" id="projects">
-
-
-        <h1>PROJECTS</h1>
-        <div class="commonProperty projectsSection">
-
-
-
-          <!-- PROJECT SLIDER - 1 -->
-          <div class="box box1">
-            <div class="imgGallary">
-              <div class="image">
-                <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="">
-              </div>
-            </div>
-            <!-- <a href="https://github.com/lassiecoder/E-CommerceWebsite"> -->
-              <h4>IOT ENABLED SMART HOME<br><br>
-                <a href="https://github.com/babayaga9823/mysmart-home" id="contactMe">View</a> 
-              </h4>
-            <!-- </a> -->
-          </div>
-
-           <div class="box box1">
-            <div class="imgGallary">
-              <div class="image">
-                <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="">
-              </div>
-            </div>
-            <!-- <a href="https://github.com/lassiecoder/E-CommerceWebsite"> -->
-              <h4>TRESPASSERS DETECTOR<br><br>
-                <a href="https://github.com/babayaga9823/iot_email_notification" id="contactMe">View</a> 
-              </h4>
-            <!-- </a> -->
-          </div>
-
-        </div>
-      </section>
-      <!-- PROJECTS SECTION ENDS -->
-
-
-
-
-
-
-
-
       <!-- Blogs section starts -->
      
-       <section class="section scrollspy" id="blogs">
-        <h1>BLOGS</h1>
- <div class="commonProperty experienceSectoin">
-  <div class="box box1">
-            <div class="boxhead">
-              <div class="boxLogo">
-                <img
-                  src="https://qph.fs.quoracdn.net/main-qimg-ad123d5ee8533aa7bbe7e6ba951f9f71.webp"
-                  alt=""
-                />
-              </div>
-              <h3>Quora</h3>
-              <div class="position"><h4>All my Blogs.</h4></div>
-            </div>
-            <!-- <hr style="width: 90%; border: 0.7px solid black;" /> -->
-            <hr>
-            <div class="boxBody">
-              <p>
-                <ul>
-                  
-                  <h3>Technological Blogs.</h3>
-                    <li><a href="https://qr.ae/TWruAM">Laptop Buying Guide with Detailed description of Specifications.</a></li>
-
-                    <li><a href="https://github.com/babayaga9823/Multiple_booting_guide/blob/master/Linux_working.pdf">Linux Booting Guide</a></li>
-
-                    <li><a href="https://qr.ae/TWsFnB">IOT Projects and Sources.</a></li>
-
-                    <li><a href="https://qr.ae/TWvvqL">OTT Recommendations.</a></li>
-
-                    <li><a href="https://qr.ae/TWvyoT">Online Shopping Hacks.</a></li>
-
-                    <h3>Human Behaviour Explorations.</h3>
-
-                    <li><a href="https://qr.ae/TWyxVQ">Advice For Teenagers.</a></li>
-
-                    <li><a href="https://qr.ae/TWvypZ">Trends among youngsters.</a></li>
-
-                    <li><a href="https://qr.ae/Te9yc1">Common Mistakes Of Teenagers.</a></li>
-
-                    <li><a href="https://qr.ae/TenLFu">Lessons From College Life.</a></li>
-
-                    <li><a href="https://qr.ae/TinZi1">Advice to Freshman.</a></li>
-
-                    <li><a href="https://qr.ae/TUCTao">Jee Main Guide.</a></li>
-
-                    <li><a href="https://qr.ae/Te9KJI">Lame Things we do to look cool.</a></li>
-
-                     <h3>Travel Blogs.</h3>
-
-                    <li><a href="https://qr.ae/T98Eaf">Top Places to visit in Odisha.</a></li>
-
-                    <li><a href="https://qr.ae/Te9yyQ">Top Places to visit in Manali.</a></li>
-
-
-                </ul>
-              </p>
-            </div>
-            <div class="boxFoot">
-              <!-- <p>Contribution continuing</p> -->
-            </div>
-          </div>
-          </div>
-
-        <!-- Outer Div ends -->
-
-      </section>
-
 
       <!-- Blogs section ends -->
 
